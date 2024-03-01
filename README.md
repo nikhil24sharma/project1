@@ -1,2 +1,3 @@
 # project1
-this is my first repos
+this is my first repository
+Author - Nikhil sharma
